@@ -13,5 +13,11 @@ nltk.download('wordnet')
 **通过tag获取pos**  
 https://stackoverflow.com/questions/15586721/wordnet-lemmatization-and-pos-tagging-in-python  
 
+**词频统计**  
+https://blog.csdn.net/mouday/article/details/96468395  
+
+**词频统计返回对象FreqDist**  
+https://blog.csdn.net/csdn_lzw/article/details/80390768  
+
 **参考**  
 https://blog.csdn.net/heykid/article/details/62424513
